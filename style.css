@@ -73,9 +73,9 @@ body{
 .tproduct{
 	font-family: sans-serif;
 }
-/*.tx p{
+.tx p{
 	font-family: sans-serif;
-}*/
+}
 .tx2 p{
 	font-family: sans-serif;
 }
@@ -437,4 +437,23 @@ body{
 }
 .rmp{
 	float: right;
+}
+
+.pagination-lg>li>a, .pagination-lg>li>span {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    color: #777;
+}
+.collect_list ul li{
+	display: inline-block;
+	font-family: sans-serif;
+	margin-right: 110px;
+}
+.collect_list{
+	    margin-top: 40px;
+    margin-bottom: -40px
+}
+.inpt{
+	width: 50px;
 }

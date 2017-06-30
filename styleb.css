@@ -1,0 +1,40 @@
+.blog_area{
+	padding: 40px 0px;
+}
+.list-unstyled span{
+	float: right;
+}
+.list-unstyled{
+	    font-family: sans-serif;
+    font-size: 16px
+    /*margin-bottom:10px;*/
+}
+
+.scatag{
+	padding: 40px 0px;
+}
+.imwb ul li{
+	margin-bottom: 10px;
+}
+.month{
+	font-family: sans-serif;
+}
+.photogall img{
+	padding: 5px;
+}
+.first{
+	border:1px solid rgba(85, 85, 85, 0.44);
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+.readmore{
+	background-color:black;
+	color: white;
+	padding: 10px;
+	margin-left: 10px;
+}
+.first p,h3{
+	padding: 10px;
+	text-align: justify;
+	font-family: lat;
+}

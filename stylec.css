@@ -1,0 +1,76 @@
+.conta{
+	text-align: center;
+	font-weight: bolder;
+	/*margin-bottom: 400px;*/
+	padding: 40px 0px;
+}
+.inf {
+    background-color: rgba(0, 0, 138, 0.44);
+    text-align: center;
+    /* font-weight: bold; */
+    color: white;
+    padding: 5px 3px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.inf h3{
+	font-weight: bold;
+}
+.cnt{
+
+}
+.cnt ul li{
+	margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.cnt ul li a{
+	color: #333;
+    text-decoration: none;
+}
+.cnt ul{
+	list-style: none;
+}
+.right_menu>h2{
+	/*margin-top: 60px;*/
+	margin-left: 75px
+}
+.btnsend{
+	float: right;
+	margin-right: 50px;
+	margin-top: 12px;
+	 background-color: #609EBB;
+	 color: white;
+	 border: 1px solid #609EBB;
+	 width: 90px;
+    height: 35px;
+}
+.right_menu>form>textarea{
+	margin-left: 16px;
+	width: 620px;
+}
+.right_menu>form>input {
+    width: 27%;
+    height: 40px;
+    padding-left: 20px;
+    margin-left: 15px;
+}
+.right_menu>form{
+	margin-left: 65px;
+	margin-top: 30px;
+}
+
+.contact_areamain{
+	/*padding: 30px 0px;*/
+	margin-bottom: 50px;
+}
+
+.ifr{
+	width: 100%;
+	padding-bottom: 40px;
+}
+.no-padding{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
